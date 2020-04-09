@@ -100,6 +100,7 @@ html {
     display: inline-block;
     background-color: rgb(255, 255, 255);
     padding-bottom: 500px;
+    padding: 40px; height: auto
 }
 
 #about h1 {
