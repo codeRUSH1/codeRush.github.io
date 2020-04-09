@@ -218,7 +218,7 @@ html {
 }
 
 #contact {
-        height: 100vh;
+        height: 85vh;
         width: 100%;
         display: inline-block;
         background-color: rgb(255, 255, 255);
@@ -228,6 +228,28 @@ html {
     text-align: center;
     font-size: 50px;
     color: rgb(0, 0, 0);
+}
+
+#contact p {
+    text-align: center;
+    font-size: 6vh;
+    color: rgb(0, 0, 0);
+    padding-top: 5px;
+}
+
+
+#contact i {
+    padding: 25px;
+}
+
+#copyright {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    padding: 25px;
+}
+
+#copyright p {
+    font-size: 5vh;
 }
 
 
