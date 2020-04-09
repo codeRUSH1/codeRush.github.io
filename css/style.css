@@ -109,16 +109,17 @@ html {
 
 #about p {
     text-align: center;
-    font-size: 30px;
+    font-size: 5vh;
     color: rgb(0, 0, 0);
 }
 
 #projects {
-        height: 100vh;
+        height: 100h;
         width: 100%;
         display: inline-block;
         background-color: rgb(255, 255, 255);
         background-image: url(../img/grey-background.jpg);   
+        background-size: cover;
 }
 
 #projects h1 {
@@ -223,6 +224,7 @@ html {
     font-size: 50px;
     color: rgb(0, 0, 0);
 }
+
 
 
   
